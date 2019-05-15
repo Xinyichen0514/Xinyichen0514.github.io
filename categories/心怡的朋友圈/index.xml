@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心怡的朋友圈 on Hugo Future Imperfect Slim</title>
+    <link>https://example.com/categories/%E5%BF%83%E6%80%A1%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88/</link>
+    <description>Recent content in 心怡的朋友圈 on Hugo Future Imperfect Slim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/%E5%BF%83%E6%80%A1%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>仙女生日啦！！</title>
+      <link>https://example.com/blog/interface/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/interface/</guid>
+      <description>我的女孩们真的对我都太甜了吧❤️我怎么会认识那么多天使呀太幸福了吧</description>
+    </item>
+    
+  </channel>
+</rss>
